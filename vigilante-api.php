@@ -1,5 +1,3 @@
-php
-Copiar código
 <?php
 $servername = "localhost";  // Endereço do servidor MySQL
 $username = "root";         // Nome de usuário do MySQL
